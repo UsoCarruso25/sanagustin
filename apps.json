@@ -685,4 +685,15 @@
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
   }
+   {
+    "nombreapp": "cookeasy",
+    "descripcion": "Es una app donde se implementa una Api de recetas y tiene la funcion de consultar una aleatoria",
+    "icono": "https://www.google.com/search?client=opera-gx&hs=0wV&sca_esv=ef29f624651829e3&sxsrf=ANbL-n4-fuh9IrLfCsDmA0Meqi4qK9BaRw:1777315430225&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTcTH442KskDyC74HpRHrYUo8DVh0t739Lf9lSmmVxEUO1C2ltbN4C6Q9LHD8THkgoerCV6C3-v3mXqfV2rMHFfFJ-QF2I9M3LO-QOpj3OEYFUgRKLyPyZv1KzHYc7I6cavBWamNzmSUZ0NEVxB9QxBELckizIYJPA-pihQNd-CQEV21h4pi7Id2pBZN33gXdE5u5goM&q=icono+de+comida&sa=X&ved=2ahUKEwjbh_32146UAxWCQzABHT3AIfIQtKgLegQIFBAB&biw=1535&bih=790&dpr=1.25#sv=CAMSVhoyKhBlLVZoNDhvTXREUXdyajlNMg5WaDQ4b010RFF3cmo5TToOQlhWY0NsQWJQNWszX00gBCocCgZtb3NhaWMSEGUtVmg0OG9NdERRd3JqOU0YADABGAcglfz1rg9KCBABGAEgASgB",
+    "grupo": "Lunes",
+    "fecha": "2026-04-25",
+    "id": 1,
+    "integrantes": [
+      "Julian Ricardo viloria Hoyos",
+      "Brayan Felipe Moya Valiente",
+      "Juan pachon"
 ]
