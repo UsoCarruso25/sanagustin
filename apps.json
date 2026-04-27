@@ -701,4 +701,18 @@
     "actividad": "API",
     "url": "https://drive.google.com/file/d/1xNNcL7renA2yAad526zWBmYCZGB4OP1h/view?usp=drive_link"
   },
+{
+    "nombreapp": "ApiCartas",
+    "descripcion": "API sobre cartas de yu gi oh",
+    "icono": "https://raw.githubusercontent.com/laura3212401957/Ajedrez-React/refs/heads/main/Ajedrez.jpeg",
+    "grupo": "lunes",
+    "fecha": "2026-03-2026",
+    "id": 1,
+    "integrantes": [
+      "Brayan Moya",
+      
+    ],
+    "actividad": "API",
+    "url": "https://drive.google.com/file/d/1AT3NEv3HGdJaXxZolPh07epGTY_Ri7Dt/view?usp=drive_link"
+  },
 
